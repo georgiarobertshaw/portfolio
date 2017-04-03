@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,400i,700,700i');
+
+body {
+background-color: #ffffff;
+margin: 30px;
+font-family: 'Raleway', sans-serif;
+}
+
+* {
+  outline: 1px dotted red;
+}
+
+.topBar {
+  overflow: hidden;
+}
+
+.socialMedia a {
+float: left;
+}
+
+.facebook {
+float: left;
+padding: 0 10px 0 0;
+}
+
+.pinterest {
+float: left;
+padding: 0 10px 0 0;
+}
+
+.instagram {
+float: left;
+}
+
+.search {
+  float: right;
+}
+
+.logo img {
+padding: 30px 530px;
+}
+
+.navigation {
+  background-color: #fff5fc;
+  height: 20px;
+  padding: 10px 0;
+
+}
+
+.links a {
+  color: black;
+  text-decoration: none;
+  padding: 10px 87.7px;
+}
+
+.banner img {
+  margin-top: 20px;
+}
