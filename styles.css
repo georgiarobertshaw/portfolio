@@ -4,11 +4,10 @@ body {
 background-color: #ffffff;
 margin: 30px;
 font-family: 'Raleway', sans-serif;
+
 }
 
-* {
-  outline: 1px dotted red;
-}
+
 
 .topBar {
   overflow: hidden;
@@ -32,16 +31,12 @@ padding: 0 10px 0 0;
 float: left;
 }
 
-.search {
-  float: right;
-}
-
-.logo img {
-padding: 30px 530px;
+.logo {
+  text-align: center;
+  padding: 20px 0;
 }
 
 .navigation {
-  background-color: #fff5fc;
   height: 20px;
   padding: 10px 0;
 
@@ -54,5 +49,541 @@ padding: 30px 530px;
 }
 
 .banner img {
-  margin-top: 20px;
+padding: 20px 0;
+}
+
+.info {
+font-size: 1.5rem;
+text-align: center;
+padding: 20px 0 0 0;
+}
+
+.linksTwo {
+overflow: hidden;
+}
+
+.circles {
+padding: 40px 0;
+overflow: hidden;
+}
+
+.honeyBees {
+float: left;
+padding: 0 19.5px 0 0;
+}
+
+.geckoes {
+float: left;
+padding: 0 19.5px 0 0;
+}
+
+.smallWorld {
+float: left;
+padding: 0 19.5px 0 0;
+}
+
+.colourPop {
+float: left;
+}
+
+.bottomPanel {
+height: 300px;
+}
+
+.logoTwo {
+float: left;
+padding: 67px 67px;
+}
+
+.infoTwo {
+  float: left;
+  padding: 110px 195px;
+}
+
+.bottomContact {
+  float:right;
+  padding: 110px 26px 0 26px;
+}
+
+.copyright {
+  float: right;
+  font-size: 0.8rem;
+  padding: 120px 0 17px 0;
+
+}
+
+.facebookTwo {
+  float: left;
+  padding: 10px 10px 0 0;
+}
+
+.pinterestTwo {
+  float: left;
+  padding: 10px 10px 0 0;
+}
+
+.instagramTwo {
+  float: left;
+    padding: 10px 0 0 0;
+}
+
+.pho {
+  text-align: center;
+  font-size: 2rem;
+  padding: 70px 0;
+}
+
+.bannerTwo {
+  overflow: hidden;
+}
+
+.blue {
+  float: left;
+  padding: 0 55px;
+}
+
+
+.jetplane {
+  float:left;
+  padding: 0 55px;
+}
+
+.descriptionOne {
+ width: 610px;
+ text-align: center;
+ padding: 20px 0;
+ float: left;
+ background-color: white;
+}
+
+.descriptionTwo {
+  float: left;
+  padding: 20px 246px;
+  background-color: white;
+}
+
+.design {
+  text-align: center;
+  font-size: 2rem;
+  padding: 70px 0;
+}
+
+
+.titleOne {
+ width: 610px;
+ text-align: center;
+ padding: 20px 0;
+ float: left;
+ background-color: white;
+}
+
+.titleTwo {
+  float: left;
+  padding: 20px 254px;
+  background-color: white;
+}
+
+.gecko {
+float: left;
+padding: 0 142px;
+overflow: hidden;
+}
+
+.bee {
+  float: left;
+  padding: 0 142px;
+  overflow: hidden;
+}
+
+.geckoPosters {
+overflow: hidden;
+padding: 80px 0;
+}
+
+.geckoPosterOne {
+  float: left;
+  padding: 0 100px 0 0;
+}
+
+.geckoPosterTwo {
+  float: left;
+  padding: 0 100px 0 0;
+}
+
+.geckoPosterThree {
+  float: left;
+  padding: 0 100px 0 0;
+}
+
+.geckoPosterFour {
+  float: left;
+  padding: 0 103px 0 0;
+}
+
+.geckoPosterFive {
+  float: left;
+
+}
+
+.geckoPosterSix {
+  float: left;
+  padding: 80px 0 0 400px;
+}
+
+.geckoPosterSeven {
+  float: left;
+  padding: 80px 400px 0 92px;
+}
+
+.geckoPosterEight {
+  float: left;
+  padding: 80px 0 0 150px;
+}
+
+.geckoPosterNine {
+  float: left;
+  padding: 80px 102px 0 102px;
+
+}
+
+.geckoPosterTen {
+  float: right;
+  padding: 80px 150px 0 0;
+}
+
+.colourImages {
+  padding: 80px 0;
+  overflow: hidden;
+}
+
+.blueOne {
+float: left;
+padding: 45px 0;
+}
+
+.blueTwo {
+float: left;
+padding: 0 0 0 81.5px;
+}
+
+.yellowOne {
+float: left;
+padding: 0 0 0 81.5px;
+}
+
+.yellowTwo {
+float: left;
+padding: 0 0 0 81.5px;
+}
+
+.pinkOne {
+float: left;
+padding: 0 0 0 81.5px;
+}
+
+.smallImages {
+  padding: 80px 0;
+  overflow: hidden;
+}
+
+.smallTwo {
+  float: left;
+padding: 0 89px 0 0;
+}
+
+.smallThree {
+  float: left;
+padding: 0 89px 0 0;
+}
+
+.smallFour {
+  float: left;
+padding: 0 89px 0 0;
+}
+
+.smallFive {
+  float: left;
+
+}
+
+.smallSix {
+  float: left;
+padding: 110px 89px 0 0;
+}
+
+.smallSeven {
+  float: left;
+padding: 110px 125px 0 0;
+}
+
+.smallEight {
+  float: left;
+padding: 80px 0 0 3px;
+}
+
+.smallNine {
+  float: left;
+  padding: 110px 0 0 125px;
+}
+
+.beeImages {
+  padding: 80px 0;
+  overflow: hidden;
+}
+
+.beeOne {
+  float: left;
+  padding: 0 189px 0 0;
+}
+
+.beeTwo {
+  float: left;
+    padding: 0 189px 0 0;
+}
+
+.beeThree {
+  float: left;
+    padding: 0 189px 0 0;
+}
+
+.beeFour {
+  float: left;
+
+}
+
+.beeFive {
+  float: left;
+  padding: 80px 189px 80px 0;
+}
+
+.beeSix {
+  float: left;
+  padding: 80px 189px 80px 0;
+}
+
+.beeSeven {
+  float: left;
+  padding: 80px 189px 80px 0;
+}
+
+.beeEight {
+  float: left;
+  padding: 80px 0 80px 0;
+}
+
+.aboutTitle {
+
+  font-size: 2rem;
+  padding: 70px 0;
+  text-align: center;
+}
+
+.aboutP {
+  float: left;
+padding: 0 223px 70px 223px;
+
+}
+
+.contactOne {
+  font-size: 2rem;
+  text-align: center;
+  padding: 70px 0;
+}
+
+.email {
+  text-align: center;
+}
+
+.socialMediaThree {
+  overflow: hidden;
+  padding: 30px 0 70px 0;
+}
+
+.facebookThree {
+  float: left;
+  padding: 0 10px 0 555px;
+}
+
+.pinterestThree {
+  float: left;
+  padding: 0 10px 0 0;
+}
+
+.instagramThree {
+  float: left;
+}
+
+.largeBlueOne {
+  padding: 70px 270px;
+  overflow: hidden;
+}
+
+.largeBlueTwo {
+  padding: 70px 380px;
+  overflow: hidden;
+}
+
+.largeYellowOne {
+  padding: 70px 380px;
+  overflow: hidden;
+}
+
+.largeYellowTwo {
+  padding: 70px 380px;
+  overflow: hidden;
+}
+
+.largePinkOne {
+  padding: 70px 380px;
+  overflow: hidden;
+}
+
+.largePlaneOne {
+  padding: 70px 270px;
+  overflow: hidden;
+}
+
+.largePlaneTwo {
+  padding: 70px 270px;
+  overflow: hidden;
+}
+
+.largePlaneThree {
+  padding: 70px 270px;
+  overflow: hidden;
+}
+
+.largePlaneFour {
+  padding: 70px 270px;
+  overflow: hidden;
+}
+
+.largeCerealFive {
+  padding: 70px 270px;
+  overflow: hidden;
+}
+
+.largeCerealSix {
+  padding: 70px 270px;
+  overflow: hidden;
+}
+
+.largeCerealSeven {
+  padding: 70px 380px;
+  overflow: hidden;
+}
+
+.largeCerealSeven {
+  padding: 70px 270px;
+  overflow: hidden;
+}
+
+.largeCerealEight {
+  padding: 70px 270px;
+  overflow: hidden;
+}
+
+.largeGeckoOne {
+  padding: 70px 380px;
+  overflow: hidden;
+}
+
+.largeGeckoTwo {
+  padding: 70px 380px;
+  overflow: hidden;
+}
+
+.largeGeckoThree {
+  padding: 70px 380px;
+  overflow: hidden;
+}
+
+.largeGeckoFour {
+  padding: 70px 380px;
+  overflow: hidden;
+}
+
+.largeGeckoFive {
+  padding: 70px 380px;
+  overflow: hidden;
+}
+
+.largeGeckoSix {
+  padding: 70px 380px;
+  overflow: hidden;
+}
+
+.largeGeckoSeven {
+  padding: 70px 380px;
+  overflow: hidden;
+}
+
+.largeGeckoEight {
+  padding: 70px 270px;
+  overflow: hidden;
+}
+
+.largeGeckoNine {
+  padding: 70px 270px;
+  overflow: hidden;
+}
+
+.largeGeckoTen {
+  padding: 70px 270px;
+  overflow: hidden;
+}
+
+.largeBeeOne {
+  padding: 70px 380px;
+  overflow: hidden;
+}
+
+.largeBeeTwo {
+  padding: 70px 380px;
+  overflow: hidden;
+}
+
+.largeBeeThree {
+  padding: 70px 380px;
+  overflow: hidden;
+}
+
+.largeBeeFour {
+  padding: 70px 380px;
+  overflow: hidden;
+}
+
+.largeBeeFive {
+  padding: 70px 380px;
+  overflow: hidden;
+}
+
+.largeBeeSix {
+  padding: 70px 380px;
+  overflow: hidden;
+}
+
+.largeBeeSeven {
+  padding: 70px 380px;
+  overflow: hidden;
+}
+
+.largeBeeEight {
+  padding: 70px 380px;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 960px) {
+
+}
+
+@media screen and (max-width: 800px) {
+
+}
+
+@media screen and (max-width: 500px) {
+  .circles {
+    padding: 10px 0 0 0;
+    width: 40px;
+  }
 }
